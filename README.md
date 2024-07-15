@@ -9,3 +9,4 @@ Unmapped provides unparalleled value by:
 - Leveraging Collaborative Crowdsourcing: Utilizing the power of a global volunteer network to continuously update and refine map data, ensuring accuracy and comprehensiveness.
 
 Join Unmapped in our mission to provide critical map data for urban resilience and development. Our collaborative crowdsourcing approach engages volunteers worldwide to map emerging markets and cities, filling gaps in existing maps and offering invaluable data for urban planning, disaster response, and sustainable growth. Whether you're a seasoned mapper or new to the field, your contributions can help shape a more resilient and sustainable world. Together, we can map the future, one city at a time.
+
